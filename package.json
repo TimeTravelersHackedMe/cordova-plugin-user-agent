@@ -1,0 +1,31 @@
+{
+  "name": "cordova-plugin-user-agent",
+  "version": "1.1.4",
+  "description": "Allows you to change your User-Agent for HTTP requests.",
+  "cordova": {
+    "id": "com.timetravelers.hackedme.UserAgent",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TimeTravelersHackedMe/cordova-plugin-user-agent.git"
+  },
+  "keywords": [
+    "user",
+    "agent",
+    "useragent",
+    "user-agent",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "Brian Zalewski",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TimeTravelersHackedMe/cordova-plugin-user-agent/issues"
+  },
+  "homepage": "https://github.com/TimeTravelersHackedMe/cordova-plugin-useragent#readme"
+}
